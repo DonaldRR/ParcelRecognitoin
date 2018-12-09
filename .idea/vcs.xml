@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EAST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/crnn" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/text-detection" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/textDetection" vcs="Git" />
+  </component>
+</project>
